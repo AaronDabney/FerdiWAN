@@ -1,2 +1,2 @@
-# FerdiWAN
+# FerdiWLAN
 A WiFi Slam Testbed
